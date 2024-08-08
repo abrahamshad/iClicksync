@@ -1,0 +1,14 @@
+{
+    "platform": "django",
+    "app": "iclicksync",
+    "disks": [
+    {
+      "name": "media",
+      "mountTo": "media"
+    },
+    {
+      "name": "data",
+      "mountTo": "data"
+    }
+  ]
+  }
