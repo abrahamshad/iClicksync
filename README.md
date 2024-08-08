@@ -7,7 +7,7 @@ iClicksync is a Django-based web application that allows users to create, share,
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/iclicksync.git
+    git clone https://github.com/abrahamshad/iclicksync.git
     cd iclicksync
     ```
 
